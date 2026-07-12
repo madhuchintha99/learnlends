@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# LearnLends
 
-# Run and deploy your AI Studio app
+A modern web application built with React, Vite, and Express, powered by Google's Gemini AI API. This project demonstrates a full-stack application with real-time AI capabilities.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/1385ed47-02a7-4fc7-9e3e-47cffa4e249a
+- **React 19** - Modern UI framework with the latest features
+- **Vite** - Lightning-fast build tool and dev server
+- **Express** - Lightweight backend server
+- **Google Gemini AI** - Integrated AI capabilities for intelligent features
+- **Tailwind CSS** - Utility-first CSS framework for styling
+- **TypeScript** - Type-safe development experience
+- **Motion** - Smooth animations and interactions
 
-## Run Locally
+## 📋 Prerequisites
 
-**Prerequisites:**  Node.js
+Before you begin, ensure you have the following installed:
+- **Node.js** (v18 or higher)
+- **npm** (comes with Node.js)
+- A **Google Gemini API key** (get one at [ai.google.dev](https://ai.google.dev))
 
+## 🔧 Installation & Setup
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/madhuchintha99/learnlends.git
+   cd learnlends
