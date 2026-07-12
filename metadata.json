@@ -1,0 +1,6 @@
+{
+  "name": "LearnLends",
+  "description": "An AI-powered financial learning and planning platform that coordinates specialized finance, budget, learning, quiz, investment, and RAG agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
